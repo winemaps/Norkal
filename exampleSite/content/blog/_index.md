@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-description : "this is a meta description"
+title: Norka Tanks 420
+date: 2021-04-20T00:00:00-07:00
+description: Norkal Tanks ready!
+
 ---
